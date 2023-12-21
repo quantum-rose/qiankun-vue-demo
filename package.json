@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node ./build/run.js",
+    "init": "node ./build/init.js",
+    "build": "node ./build/build.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
